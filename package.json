@@ -1,0 +1,19 @@
+{
+  "name": "urlshortner",
+  "version": "1.0.0",
+  "description": "This project goal is to make a url shortner webiste",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "Pankaj Kumar Das",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "mongoose": "^8.8.1",
+    "nodemon": "^3.1.7",
+    "shortid": "^2.2.16"
+  }
+}
